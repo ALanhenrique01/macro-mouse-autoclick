@@ -1,0 +1,14 @@
+{
+  "ligado": true,
+  "cps": 16,
+  "indicador": true,
+  "som": true,
+  "atalhos": [
+    {
+      "atalho": "CTRL+SHIFT+Z",
+      "modo": "alternar",
+      "botao": "esquerdo",
+      "habilitado": true
+    }
+  ]
+}
